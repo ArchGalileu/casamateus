@@ -6,26 +6,31 @@ layout: page
 #categories: topics
 excerpt: 2018
 permalink: intro
-background-image: ponte d luis.JPG
-image: ponte d luis.JPG
+background-image: casamateus.jpg
+image: casamateus.jpg
 ---
 
-Muito prezado **Sr. Hélder Ribeiro**,
+##### A/c do Director da programação cultural da Fundação Casa de Mateus
+ 
 
-Conforme combinado, enviamos-lhe em anexo umas propostas de concertos com os nossos dois grupos ligados à associação ***“Enredo de Sons”***: Orquestra de Cordas ***“Camerata NovNorte”*** e o ***"Quarteto “Douro”***.
+Muito estimado **Sr. Director**,  
 
-Entretanto, atentos às suas preocupações partilhadas connosco, gostaríamos de mostrar as nossas disponibilidade e flexibilidade através das seguintes ideias:
-- Reformular parcialmente o conteúdo de alguns dos programas propostos, **introduzindo obras com os solistas gaienses** referidos por si durante a nossa conversa. Há várias possibilidades interessantes, quer com a Camerata (Bocherini – Concertos para violoncelo; Cimarosa – para oboé; Armando José Fernandes – para piano, etc.), quer com o Quarteto Douro (Schubert – Quinteto com dois violoncelos; Brahms – Quinteto com piano, etc.). Será sempre um repertório muito atractivo e agradável. Para planear isso, era preciso estabelecermos os contactos, com a sua ajuda.
-
-- Adicionar **apresentações aos concertos** – por ex. aos Domingos – não apenas descrevendo o programa apresentando, mas, sim, tratando temas abrangentes com apoio do programa proposto. Por ex.: “A Melodia”, “O Ritmo”, “Como funciona a linguagem musical?”, “Porque é Mozart agradável?”, etc.
-
-A periodicidade dos concertos do ciclo será por combinar.
-
-Reiteramos a nossa proposta de nomear o Quarteto “Douro” *ensemble residente da Câmara Municipal de Vila Nova de Gaia*. Isto implicará apenas um protocolo (quanto mais simples), sem custos adicionais, além dos concertos acordados e o bom nome para a Câmara.
-
-No mesmo sentido, de desenvolver actividades musicais prestigiantes para a Câmera de Gaia, temos ainda outras ideias que esperamos merecer a implementação a seguir ao arranque inicial.
-
-Ficamos à espera duma resposta ou contraproposta.
-
+O Quarteto Douro é uma formação de cordas cuja actividade se desenrola desde há uma década e cujas características se podem encontrar nos anexos deste email.  
+  
+Gostaríamos de propor um ciclo de concertos que, acreditamos, teriam um óptimo enquadramento no ambiente cultural promovido pela Fundação.  
+  
+A nossa proposta centra-se nos Quartetos de Cordas de Beethoven, como eixo da programação, representando esses um dos mais altos cumes da linguagem e do pensamento musical. Achamos que o público de Vila Real e da zona duriense merece plenamente beneficiar deste privilégio, outrora não fácil de encontrar.  
+  
+Além dos quartetos de Beethoven, os programas serão preenchidos com outras obras-primas do repertório, inclusive autores portugueses, relacionadas sob diversas formas com os modelos beethovenianos.  
+  
+Os concertos podiam ser precedidos por uma breve apresentação das ideias e da problemática desenvolvidas, que poderá ser feita pelo 1º Violino do Quarteto Douro, Prof. Doutor Radu Ungureanu, ou por uma pessoa indicada pela Fundação.  
+  
+A nossa sugestão seria de apresentar 5 ou 6 concertos por ano, com início em 2019 e, até aos finais de 2021 a Integral dos Quartetos de Beethoven será finalizada.  
+  
+A estrutura dos primeiros programas encontra-se em anexo. Se solicitado, sempre podíamos rever os conteúdos em conformidade com as eventuais sugestões.  
+  
+Gratos pela atenção dispensada e à espera duma resposta,  
+  
 Com os melhores cumprimentos,  
-Radu Ungureanu
+Gaspar Santos, pelo Quarteto Douro
+
