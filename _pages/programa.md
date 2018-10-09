@@ -4,7 +4,7 @@ id: 4
 title: Programa
 layout: page
 #categories: topics
-excerpt: grandes momentos da música para instrumentos de cordas
+excerpt: a integral dos Quartetos de corda de Ludwig van Beethoven
 permalink: programa
 background-image: beethoven.jpg
 image: beethoven.jpg
