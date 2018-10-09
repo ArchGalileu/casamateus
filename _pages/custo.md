@@ -6,8 +6,8 @@ layout: page
 #categories: topics
 excerpt: o que é necessário para acontecer
 permalink: honorarios
-background-image: salamateus.jpeg
-image: salamateus.jpeg
+background-image: salamateus.jpg
+image: salamateus.jpg
 ---
 #### Valores para concretizar
 
