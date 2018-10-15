@@ -8,7 +8,7 @@ excerpt: desde 2008
 permalink: quarteto-douro
 background-image: quartetodouro.jpg
 image: quartetodouro.jpg
-youtube: A49t_vbMcfo?start=3279
+youtube: VCpPeg_Z2x4
 ---
 {% include youtube.html %}
 
