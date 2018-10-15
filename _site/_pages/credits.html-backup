@@ -10,7 +10,7 @@
   <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Camerata NovNorte e Quarteto Douro</title>
+  <title>Quarteto Douro</title>
   <meta name="description" content="People to thank">
   <!--[if lte IE 8]><script src="/js/ie/html5shiv.js"></script><![endif]-->
   <link rel="canonical" href="http://localhost:4000/_pages/credits.html-backup">
@@ -32,7 +32,7 @@
   }
   </style>
   -->
-  <link rel="alternate" type="application/rss+xml" title="Camerata NovNorte e Quarteto Douro" href="http://localhost:4000/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="Quarteto Douro" href="http://localhost:4000/feed.xml">
 </head>
 
 
@@ -43,7 +43,7 @@
 
       <!-- Header -->
 <header id="header">
-  <h1><a href="/index.html">Camerata NovNorte e Quarteto Douro</a></h1>
+  <h1><a href="/index.html">Quarteto Douro</a></h1>
   <nav id="nav">
     <ul>
       <li class="special">
@@ -53,9 +53,7 @@
             <li><a href="/index.html">Home</a></li>
             <li><a href="/intro">Introdução</a></li>
             <li><a href="/programa">Programa</a></li>
-            <li><a href="/radu-ungureanu">Radu Ungureanu</a></li>
             <li><a href="/quarteto-douro">Quarteto Douro</a></li>
-            <li><a href="/camerata-novnorte">Camerata NovNorte</a></li>
             <li><a href="/honorarios">Honorários</a></li>
             <li><a href="/contato/">Contato</a></li>
             <li><a href="/feed.xml"

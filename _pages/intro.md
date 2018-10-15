@@ -32,5 +32,7 @@ A estrutura dos primeiros programas encontra-se em anexo. Se solicitado, sempre 
 Gratos pela atenção dispensada e à espera duma resposta,  
   
 Com os melhores cumprimentos,  
-Gaspar Santos, pelo Quarteto Douro
+Gaspar Santos, pelo Quarteto Douro  
+  
+Seguir para o [Programa](/programa)
 

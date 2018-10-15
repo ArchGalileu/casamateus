@@ -20,6 +20,9 @@ image: salamateus.jpg
 
 Entidade jurídica:  
 **Enredo de Sons, Associação**  
-NIF: 509 626 718
+NIF: 509 626 718  
+  
+  
+Finalmente [Contatar-nos](/contato)
 
 
