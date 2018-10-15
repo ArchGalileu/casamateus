@@ -31,7 +31,7 @@ Apresentação em Aveiro da obra do compositor Armando Santiago (residente no Ca
 O quarteto de cordas “Douro” propõe a divulgação deste repertório “de ouro”, numa visão interpretativa actual, prestando particular atenção à autenticidade estilística.
 
 
-RADU UNGUREANU, *violino*
-GASPAR SANTOS, *violino*
-TERESA CORREIA, *viola*
+RADU UNGUREANU, *violino*  
+GASPAR SANTOS, *violino*  
+TERESA CORREIA, *viola*  
 DINIS LECOMTE, *violoncelo*
