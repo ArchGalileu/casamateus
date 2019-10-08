@@ -9,59 +9,69 @@ permalink: programa
 background-image: beethoven.jpg
 image: beethoven.jpg
 ---
-#### Quarteto de Cordas por volta de Beethoven
+#### 250 anos do nascimento de Ludwig Van Beethoven
 
 ## Quarteto Douro
 
-##### Eixo da programação: Início da Integral dos Quartetos de Beethoven, com apresentação
+##### Integral dos Quartetos de Beethoven, com apresentação
 ---
 
+![L. van Beethoven](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/1200px-Beethoven.jpg)
 
 **I.**
 
-![W. A. Mozart](https://www.wien.info/media/images/mozart-gemaelde-von-barbara-krafft-3to2.jpeg){:width="100px"}
-![L. van Beethoven](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/1200px-Beethoven.jpg){:width="100px"}
-
-- **W. A. Mozart** – Quarteto em Si b Maior, KV 421 – “A Caça”
-- **L. van Beethoven** – Quarteto em Fá Maior, op. 18, nº 1
+Quarteto em Fá Maior, op. 18, nº 2  
+Quarteto em Mi Menor, op. 59, nº 2
 
 ---
 
 **II.**
 
-![J. Haydn](https://upload.wikimedia.org/wikipedia/commons/0/05/Joseph_Haydn.jpg){:width="100px"}
-
-- **J. Haydn** – “As Sete Últimas Palavras de Jesus Christo”
+Quarteto em Sib Maior, op. 18, nº 6 "La Malinconia"  
+Quarteto em Mib Maior, op. 74 "As Arpas"
 
 ---
 
 **III.**
 
-![J. Haydn](https://upload.wikimedia.org/wikipedia/commons/0/05/Joseph_Haydn.jpg){:width="100px"}
-![L. van Beethoven](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/1200px-Beethoven.jpg){:width="100px"}
-
-- **J. Haydn** – Quarteto em sol menor, op. 71, nº 3, “O Cavaleiro”
-- **L. van Beethoven** – Quarteto em Dó Maior, op. 59, nº 3, “Razumovski”
+Quarteto em dó menor, op. 18, nº 4  
+Quarteto em Fá Maior, op. 59, nº 1
 
 ---
 
 **IV.**
 
-![L. van Beethoven](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/1200px-Beethoven.jpg){:width="100px"}
-![F. Schubert](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg/220px-Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg){:width="100px"}
-
-- **L. van Beethoven** – Quarteto em dó menor, op. 4, nº 18
-- **F. Schubert** – Quarteto em Lá Maior, “Rosamunde”
+Quarteto em fá menor, op. 95 "Serioso"  
+Quarteto Mib Maior, op. 127 
 
 ---
 
 **V.**
 
-![F. Mendelssohn-Bartholdy](https://i.ytimg.com/vi/Vnh7gO95yIk/maxresdefault.jpg){:width="100px"}
-![L. van Beethoven](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/1200px-Beethoven.jpg){:width="100px"}
+Quarteto em Dó Maior, op. 59, nº 3  
+Quarteto em dó# menor, op. 131
 
-- **F. Mendelssohn-Bartholdy** – Quarteto em Ré Maior, op. 44, nº 1
-- **L. van Beethoven** – Quarteto em fá menor, op. 95, “Serioso”
-  
-  
+---
+
+**VI.**
+
+Quarteto em Lá Maior, op. 18, nº 5  
+Quarteto em lá menor, op. 132
+
+---
+
+**VII.**
+
+Quarteto em Ré Maior, op. 18, nº 3  
+Quarteto em Sib Maior, op. 130  
+Quarteto em Si Maior, op. 133 "Grosse Fuge"
+
+---
+
+**VIII.**
+
+Quarteto em Fá Maior, op. 18, nº 1  
+Quarteto em Fá Maior, op. 135
+
+
 Seguir para o [O Quarteto Douro](/quarteto-douro)
