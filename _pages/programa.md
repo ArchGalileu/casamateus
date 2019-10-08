@@ -13,10 +13,8 @@ image: beethoven.jpg
 
 ## Quarteto Douro
 
-##### Integral dos Quartetos de Beethoven, com apresentação
+##### Integral dos Quartetos de Beethoven, com apresentação, em VIII concertos
 ---
-
-![L. van Beethoven](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/1200px-Beethoven.jpg)
 
 **I.**
 
